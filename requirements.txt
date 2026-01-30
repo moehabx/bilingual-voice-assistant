@@ -1,0 +1,7 @@
+openai
+vosk
+sounddevice
+pyttsx3
+arabic_reshaper
+python-bidi
+customtkinter
