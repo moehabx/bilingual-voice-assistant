@@ -5,7 +5,7 @@ A desktop voice assistant built with Python that supports:
 - English & Arabic input
 - Text-to-speech responses
 - Intelligent prompt selection using a genetic-inspired algorithm
-- Optional GPT integration (API-based)
+- Optional GPT integration (API-based) You will need to buy an openAI API key
 
 ## ✨ Features
 - 🎧 Offline speech recognition (no internet required)
@@ -203,6 +203,7 @@ Explain the symptoms of common flu to a patient.
 TECHNOLOGY:
 Give beginner tips for learning programming.
 ```
+
 
 
 
