@@ -20,6 +20,7 @@ A desktop voice assistant built with Python that supports:
 git clone https://github.com/moehabx/bilingual-voice-assistant.git
 cd bilingual-voice-assistant
 pip install -r requirements.txt
+```
 
 
 # **Genetic Algorithm (GA) in Your Prompt Selector**
@@ -195,5 +196,6 @@ Explain the symptoms of common flu to a patient.
 TECHNOLOGY:
 Give beginner tips for learning programming.
 ```
+
 
 
