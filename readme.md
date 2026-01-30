@@ -20,6 +20,13 @@ A desktop voice assistant built with Python that supports:
 git clone https://github.com/moehabx/bilingual-voice-assistant.git
 cd bilingual-voice-assistant
 pip install -r requirements.txt
+
+you must download
+VOSK_MODELS = {
+    "English": "vosk-model-small-en-us-0.15",
+    "Arabic": "vosk-model-ar-mgb2-0.4"
+}
+
 ```
 
 
@@ -196,6 +203,7 @@ Explain the symptoms of common flu to a patient.
 TECHNOLOGY:
 Give beginner tips for learning programming.
 ```
+
 
 
 
